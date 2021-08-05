@@ -33,9 +33,9 @@
 						<nav>
 							<ul>
 								<li><a href="#intro">Introduction</a></li>
-								<li><a href="#work">Naveen R, Kishore Call me after the class</a></li>
-								<li><a href="#about">Abishek Mannam</a></li>
-								<li><a href="#contact">Padmashreee</a></li>
+								<li><a href="#work">arjun, arun Call me after the class</a></li>
+								<li><a href="#about">aravind</a></li>
+								<li><a href="#contact">akash</a></li>
 								<!--<li><a href="#elements">Elements</a></li>-->
 							</ul>
 						</nav>
